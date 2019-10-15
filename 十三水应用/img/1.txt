@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCCversion="1.0">
+<qresource>
+   <file>img/card.png</file>
+   <file>img/logo.png</file>
+   <file>img/logo1.png</file>
+   <file>img/logo2.png</file>
+   <file>img/poker.ico</file>
+</qresource>
+</RCC>
